@@ -1,0 +1,37 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "csgo_environment.vfx"
+
+	//---- Color ----
+	g_flModelTintAmount "1.000"
+	g_nScaleTexCoordUByModelScaleAxis "0" // None
+	g_nScaleTexCoordVByModelScaleAxis "0" // None
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Material1 ----
+	g_flTexCoordRotation1 "0.000"
+	g_vTexCoordCenter1 "[0.500 0.500]"
+	g_vTexCoordOffset1 "[0.000 0.000]"
+	g_vTexCoordScale1 "[1.000 1.000]"
+	TextureAmbientOcclusion1 "raw/textures/tiles092_1k-jpg/tiles092_ao.jpg"
+	TextureColor1 "raw/textures/tiles092_1k-jpg/tiles092_color.jpg"
+	TextureHeight1 "raw/textures/tiles092_1k-jpg/tiles092_disp.jpg"
+	TextureMetalness1 "materials/default/default_metal.tga"
+	TextureNormal1 "raw/textures/tiles092_1k-jpg/tiles092_normal.jpg"
+	TextureRoughness1 "raw/textures/tiles092_1k-jpg/tiles092_rough.jpg"
+	TextureTintMask1 "materials/default/default_mask.tga"
+
+	//---- Texture Address Mode ----
+	g_nTextureAddressModeU "0" // Wrap
+	g_nTextureAddressModeV "0" // Wrap
+
+	SystemAttributes
+	{
+		PhysicsSurfaceProperties "brick"
+	}
+}

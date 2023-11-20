@@ -14,6 +14,7 @@ It includes:
 
 - PBR-Textures
 - Revised Meshes
+- Soften Normals (cornes)
 - Custom-Sounds
 
 ---

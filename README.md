@@ -25,6 +25,7 @@ Todo:
 - [ ] Sound implementation (custom sounds, wav -> vsnd) & proper ingame usage
 - [ ] Radar (image)
 - [ ] Displacements of outside floors
+- [ ] More props
 
 ---
 

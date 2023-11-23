@@ -17,6 +17,7 @@ It includes:
 - Soften Normals (cornes)
 - Custom-Sounds
 - Smart-Props
+- Custom Props, including **.blend** Blender files
 
 ---
 

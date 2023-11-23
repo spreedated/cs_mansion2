@@ -16,6 +16,7 @@ It includes:
 - Revised Meshes
 - Soften Normals (cornes)
 - Custom-Sounds
+- Smart-Props
 
 ---
 

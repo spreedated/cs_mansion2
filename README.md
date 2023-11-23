@@ -31,6 +31,14 @@ Todo:
 
 ---
 
+Early progress screenshots:
+
+![](screenshots/0.jpg)
+![](screenshots/1.jpg)
+![](screenshots/2.jpg)
+![](screenshots/3.jpg)
+![](screenshots/4.jpg)
+
 ### Enjoying this?
 Just star the repo or make a donation.
 

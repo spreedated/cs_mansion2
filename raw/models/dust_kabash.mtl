@@ -1,0 +1,13 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl materials_models_props_de_dust_hr_dust_dust_trims_hr_dust_kasbah_stairs001_color_vmat
+map_Kd hr_dust_kasbah_stairs001_color_vmat_g_tmetalness_ee87d4b4.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+illum 2
+Ns 5.000000
+Tr 1.000000

@@ -3,6 +3,8 @@
 cs_mansion2
 ===========
 
+<img src="raw/logo/logo_1024.png" style="width:256px;margin:auto;padding:10px" />
+
 This is the popular **cs_mansion** map for CS2.<br/>
 As I already made a whole remake for CS:GO, which can be found here [cs_mansion](https://steamcommunity.com/sharedfiles/filedetails/?id=127079570).<br/>
 <br/>
@@ -39,6 +41,7 @@ Early progress screenshots:
 ![](screenshots/2.jpg)
 ![](screenshots/3.jpg)
 ![](screenshots/4.jpg)
+![](screenshots/5.jpg)
 
 ### Enjoying this?
 Just star the repo or make a donation.

@@ -39,15 +39,15 @@
 						[
 							{
 								from = "materials_models_props_crates_csgo_drop_crate_csgo_drop_crate_c.vmat"
-								to = "materials/models/props/crates/csgo_drop_crate/csgo_drop_crate_phoenix_base.vmat"
+								to = "materials/cs_mansion_crate.vmat"
 							},
 							{
 								from = "materials_models_props_crates_csgo_drop_crate_csgo_drop_cra.vmat"
-								to = "materials/models/props/crates/csgo_drop_crate/csgo_drop_crate_phoenix_base.vmat"
+								to = "materials/cs_mansion_crate.vmat"
 							},
 							{
 								from = ".vmat"
-								to = "materials/models/props/crates/csgo_drop_crate/csgo_drop_crate_phoenix_base.vmat"
+								to = "materials/cs_mansion_crate.vmat"
 							},
 						]
 					},

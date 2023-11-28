@@ -20,13 +20,16 @@ It includes:
 - Custom-Sounds
 - Smart-Props
 - Custom Props, including **.blend** Blender files
+- Working vending machines
 
 ---
 
 Todo:
 
-- [ ] Search for a replacement "func_instance_io_proxy" in Source 2
+- [ ] Monitor <-> Camera System, yet not implemented in CS2
+- [ ] Search for a replacement "func_instance_io_proxy" in CS2
 - [ ] Sound implementation (custom sounds, wav -> vsnd) & proper ingame usage
+- [ ] Proper **env_soundscape** work
 - [ ] Radar (image)
 - [ ] Displacements of outside floors
 - [ ] More props

@@ -6,23 +6,6 @@
 		children = 
 		[
 			{
-				_class = "MaterialGroupList"
-				children = 
-				[
-					{
-						_class = "MaterialGroup"
-						name = "mansion"
-						remaps = 
-						[
-							{
-								from = "mansion_skin.vmat"
-								to = "materials/mansion_bricks_base.vmat"
-							},
-						]
-					},
-				]
-			},
-			{
 				_class = "PhysicsShapeList"
 				children = 
 				[

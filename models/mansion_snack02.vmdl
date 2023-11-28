@@ -51,14 +51,14 @@
 				[
 					{
 						_class = "PhysicsHullFile"
-						name = "mansion_snack04"
+						name = "mansion_snack02"
 						parent_bone = ""
-						surface_prop = "plastic"
+						surface_prop = "default"
 						collision_prop = "default"
 						recenter_on_parent_bone = false
 						offset_origin = [ 0.0, 0.0, 0.0 ]
 						offset_angles = [ 0.0, 0.0, 0.0 ]
-						filename = "raw/models/mansion_snack04.fbx"
+						filename = "raw/models/mansion_snack02.fbx"
 						import_scale = 1.0
 						faceMergeAngle = 10.0
 						maxHullVertices = 0

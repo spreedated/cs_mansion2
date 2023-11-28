@@ -34,20 +34,42 @@
 				[
 					{
 						_class = "MaterialGroup"
-						name = "0"
+						name = "mansion_logo"
 						remaps = 
 						[
 							{
-								from = "lambert2sg.vmat"
-								to = "materials/mansion_mug_texture.vmat"
+								from = "materials/mansion_mug_side0.vmat"
+								to = "materials/mansion_logo_mug.vmat"
 							},
 							{
-								from = "me.vmat"
+								from = "materials/mansion_mug_side1.vmat"
+								to = "materials/mansion_logo_mug.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "creator"
+						remaps = 
+						[
+							{
+								from = "materials/mansion_mug_side0.vmat"
 								to = "materials/srd_face0.vmat"
 							},
 							{
-								from = "me2.vmat"
+								from = "materials/mansion_mug_side1.vmat"
 								to = "materials/srd_face1.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "oldlogo"
+						remaps = 
+						[
+							{
+								from = "materials/mansion_mug_side0.vmat"
+								to = "materials/cs_logo_old.vmat"
 							},
 						]
 					},

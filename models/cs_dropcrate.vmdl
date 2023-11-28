@@ -45,10 +45,6 @@
 								from = "materials_models_props_crates_csgo_drop_crate_csgo_drop_cra.vmat"
 								to = "materials/cs_mansion_crate.vmat"
 							},
-							{
-								from = ".vmat"
-								to = "materials/cs_mansion_crate.vmat"
-							},
 						]
 					},
 				]

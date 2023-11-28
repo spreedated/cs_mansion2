@@ -6,27 +6,6 @@
 		children = 
 		[
 			{
-				_class = "MaterialGroupList"
-				children = 
-				[
-					{
-						_class = "MaterialGroup"
-						name = "0"
-						remaps = 
-						[
-							{
-								from = "cs_oldskool.vmat"
-								to = "materials/cs_logo_old.vmat"
-							},
-							{
-								from = "lambert2sg.vmat"
-								to = "materials/mansion_mug_texture.vmat"
-							},
-						]
-					},
-				]
-			},
-			{
 				_class = "GameDataList"
 				children = 
 				[

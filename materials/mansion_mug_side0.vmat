@@ -19,7 +19,7 @@ Layer0
 	g_vTexCoordOffset1 "[0.000 0.000]"
 	g_vTexCoordScale1 "[1.000 1.000]"
 	TextureAmbientOcclusion1 "materials/default/default_ao.tga"
-	TextureColor1 "raw/models/textures/mansion_mug_side_color.png"
+	TextureColor1 "raw/models/textures/mansion_mug_oldskool_color.png"
 	TextureHeight1 "materials/default/default_height.tga"
 	TextureMetalness1 "materials/default/default_metal.tga"
 	TextureNormal1 "[0.501961 0.501961 1.000000 1.000000]"
@@ -33,5 +33,27 @@ Layer0
 	SystemAttributes
 	{
 		PhysicsSurfaceProperties "pottery"
+	}
+
+
+	VariableState
+	{
+		"Color"
+		{
+		}
+		"Fog"
+		{
+		}
+		"Material1"
+		{
+			"Color" 0
+			"Tint Mask" 0
+			"Lighting" 0
+			"Height" 0
+			"Texture Transform" 1
+		}
+		"Texture Address Mode"
+		{
+		}
 	}
 }

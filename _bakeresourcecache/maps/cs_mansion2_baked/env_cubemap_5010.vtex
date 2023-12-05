@@ -1,0 +1,37 @@
+<!-- dmx encoding keyvalues2_noids 4 format vtex 1 -->
+"CDmeVtex"
+{
+	"m_inputTextureArray" "element_array"
+	[
+		"CDmeInputTexture"
+		{
+			"m_name" "string" "inputTexture0"
+			"m_fileName" "string" "_bakeresourcecache/maps/cs_mansion2_baked/env_cubemap_5010.exr"
+			"m_colorSpace" "string" "linear"
+			"m_typeString" "string" "CUBE"
+			"m_imageProcessorArray" "element_array"
+			[
+			]
+		}
+	]
+	"m_outputTypeString" "string" "CUBE"
+	"m_outputFormat" "string" "BC6H"
+	"m_textureOutputChannelArray" "element_array"
+	[
+		"CDmeTextureOutputChannel"
+		{
+			"m_srcChannels" "string" "rgba"
+			"m_dstChannels" "string" "rgba"
+			"m_mipAlgorithm" "CDmeImageProcessor"
+			{
+				"m_algorithm" "string" "GGXCubeMapBlur"
+			}
+			"m_outputColorSpace" "string" "linear"
+			"m_inputTextureArray" "string_array"
+			[
+				"inputTexture0"
+			]
+		}
+	]
+	"m_bHiddenAssetFlag" "bool" "1"
+}

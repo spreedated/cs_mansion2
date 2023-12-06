@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=35WE5NU48AUMA&source=url)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/pools/c/8ZXWv1d784)
 
 cs_mansion2
 ===========
@@ -29,10 +29,9 @@ Todo:
 - [ ] Monitor <-> Camera System, yet not implemented in CS2
 - [ ] Search for a replacement "func_instance_io_proxy" in CS2
 - [ ] Sound implementation (custom sounds, wav -> vsnd) & proper ingame usage
-- [ ] Proper **env_soundscape** work
+- [ ] Proper **snd_soundscape** work
 - [ ] Radar (image)
 - [ ] Displacements of outside floors
-- [ ] More props
 - [ ] 3D Skybox
 
 ---
@@ -49,7 +48,7 @@ Early progress screenshots:
 ### Enjoying this?
 Just star the repo or make a donation.
 
-[![Donate0](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=35WE5NU48AUMA&source=url)
+[![Donate0](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/pools/c/8ZXWv1d784)
 
 Your help is valuable since this is a hobby project for all of us: we do development during out-of-office hours.
 

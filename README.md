@@ -27,8 +27,6 @@ It includes:
 Todo:
 
 - [ ] Monitor <-> Camera System, yet not implemented in CS2
-- [ ] Search for a replacement "func_instance_io_proxy" in CS2
-- [ ] Sound implementation (custom sounds, wav -> vsnd) & proper ingame usage
 - [ ] Proper **snd_soundscape** work
 - [ ] Radar (image)
 - [ ] Displacements of outside floors

@@ -47,30 +47,30 @@
  
 	mansion.doorbell = 
 	{
-		type = "src1_3d"
+		type = "csgo_mega"
 		delay = 0.0
-		use_hrtf = 0.0
+		use_hrtf = 1.0
 		volume = 0.7
 		pitch = 1.0
-		vsnd_files = "sounds/mansion.doorbell.vsnd"
+		vsnd_files_track_01 = "sounds/mansion.doorbell.vsnd"
 	}
 	mansion.window_open = 
 	{
-		type = "src1_3d"
+		type = "csgo_mega"
 		delay = 0.0
 		use_hrtf = 0.0
 		volume = 0.7
 		pitch = 1.0
-		vsnd_files = "sounds/mansion.window.open.vsnd"
+		vsnd_files_track_01 = "sounds/mansion.window.open.vsnd"
 	}
 	mansion.window_close = 
 	{
-		type = "src1_3d"
+		type = "csgo_mega"
 		delay = 0.0
 		use_hrtf = 0.0
 		volume = 0.7
 		pitch = 1.0
-		vsnd_files = "sounds/mansion.window.close.vsnd"
+		vsnd_files_track_01 = "sounds/mansion.window.close.vsnd"
 	}
 
 	"ambient_example.outdoors" = 

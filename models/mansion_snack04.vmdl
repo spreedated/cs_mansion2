@@ -90,8 +90,8 @@
 								surface_property = "rubber"
 								translation_only = false
 								group_id = 0
-								hitbox_mins = [ -57.878418, -25.156454, -1.0 ]
-								hitbox_maxs = [ 48.210865, 25.443272, 11.638557 ]
+								hitbox_mins = [ -6.252129, -2.432123, 0.021054 ]
+								hitbox_maxs = [ 4.886234, 2.527184, 1.157029 ]
 							},
 						]
 					},

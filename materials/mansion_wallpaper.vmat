@@ -19,11 +19,11 @@ Layer0
 	g_vTexCoordOffset1 "[0.000 0.000]"
 	g_vTexCoordScale1 "[1.000 1.000]"
 	TextureAmbientOcclusion1 "materials/default/default_ao.tga"
-	TextureColor1 "raw/textures/wallpaper001b_1k-jpg/wallpaper001b_1k-jpg_color.jpg"
-	TextureHeight1 "raw/textures/wallpaper001b_1k-jpg/wallpaper001b_1k-jpg_displacement.jpg"
+	TextureColor1 "raw/textures/wallpaper002a_1k-jpg/wallpaper002a_color.jpg"
+	TextureHeight1 "raw/textures/wallpaper002a_1k-jpg/wallpaper002a_height.jpg"
 	TextureMetalness1 "materials/default/default_metal.tga"
-	TextureNormal1 "raw/textures/wallpaper001b_1k-jpg/wallpaper001b_1k-jpg_normalgl.jpg"
-	TextureRoughness1 "raw/textures/wallpaper001b_1k-jpg/wallpaper001b_1k-jpg_roughness.jpg"
+	TextureNormal1 "raw/textures/wallpaper002a_1k-jpg/wallpaper002a_normal.jpg"
+	TextureRoughness1 "raw/textures/wallpaper002a_1k-jpg/wallpaper002a_rough.jpg"
 	TextureTintMask1 "materials/default/default_mask.tga"
 
 	//---- Texture Address Mode ----
@@ -33,5 +33,27 @@ Layer0
 	SystemAttributes
 	{
 		PhysicsSurfaceProperties "paper"
+	}
+
+
+	VariableState
+	{
+		"Color"
+		{
+		}
+		"Fog"
+		{
+		}
+		"Material1"
+		{
+			"Color" 0
+			"Tint Mask" 0
+			"Lighting" 0
+			"Height" 0
+			"Texture Transform" 1
+		}
+		"Texture Address Mode"
+		{
+		}
 	}
 }

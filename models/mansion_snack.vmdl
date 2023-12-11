@@ -101,8 +101,8 @@
 								surface_property = "Cloth"
 								translation_only = false
 								group_id = 0
-								hitbox_mins = [ -78.623878, -47.138683, -10.104517 ]
-								hitbox_maxs = [ 78.952957, 45.459763, 27.284941 ]
+								hitbox_mins = [ -7.585706, -5.537874, 0.024518 ]
+								hitbox_maxs = [ 7.403366, 4.512415, 2.672875 ]
 							},
 						]
 					},

@@ -31,7 +31,6 @@ Todo:
 - [ ] Radar, multi-layer
 - [ ] Displacements of outside floors
 - [ ] 3D Skybox
-- [ ] Correct map-icon SVG to be correctly processed by the compiler
 
 ---
 

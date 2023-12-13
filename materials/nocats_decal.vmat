@@ -7,6 +7,12 @@ Layer0
 	//---- Blend Mode ----
 	F_BLEND_MODE 1 // Translucent
 
+	//---- Lit ----
+	F_LIT 1
+
+	//---- Ambient Occlusion ----
+	TextureAmbientOcclusion ""
+
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_flTexCoordRotation "0.000"
@@ -21,6 +27,21 @@ Layer0
 
 	//---- Fog ----
 	g_bFogEnabled "1"
+
+	//---- Lighting ----
+	TextureMetalness ""
+	TextureRoughness ""
+
+	//---- Normal Map ----
+	TextureNormal ""
+
+	//---- Self Illum ----
+	g_flSelfIllumAlbedoFactor "1.000"
+	g_flSelfIllumBrightness "0.000"
+	g_flSelfIllumScale "1.000"
+	g_vSelfIllumScrollSpeed "[0.000 0.000]"
+	g_vSelfIllumTint "[1.000000 1.000000 1.000000 0.000000]"
+	TextureSelfIllumMask ""
 
 	//---- Texture Address Mode ----
 	g_nTextureAddressModeU "0" // Wrap
@@ -42,25 +63,29 @@ Layer0
 		"g_flAnimationTimePerFrame" "0.1"
 		"g_nNumAnimationCells" "1"
 		"g_vAnimationGrid" "[1 1]"
-		"TextureAmbientOcclusion" ""
-		"TextureMetalness" ""
-		"TextureRoughness" ""
-		"TextureNormal" ""
-		"g_flSelfIllumAlbedoFactor" "1"
-		"g_flSelfIllumBrightness" "0"
-		"g_flSelfIllumScale" "1"
-		"g_vSelfIllumScrollSpeed" "[0.000 0.000]"
-		"g_vSelfIllumTint" "[1.000000 1.000000 1.000000 0.000000]"
-		"TextureSelfIllumMask" ""
 	}
 
 
 	VariableState
 	{
+		"Ambient Occlusion"
+		{
+		}
 		"Color"
 		{
 		}
 		"Fog"
+		{
+		}
+		"Lighting"
+		{
+			"Roughness" 0
+			"Metalness" 0
+		}
+		"Normal Map"
+		{
+		}
+		"Self Illum"
 		{
 		}
 		"Texture Address Mode"

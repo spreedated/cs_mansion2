@@ -29,4 +29,26 @@ Layer0
 	//---- Texture Address Mode ----
 	g_nTextureAddressModeU "0" // Wrap
 	g_nTextureAddressModeV "0" // Wrap
+
+
+	VariableState
+	{
+		"Color"
+		{
+		}
+		"Fog"
+		{
+		}
+		"Material1"
+		{
+			"Color" 0
+			"Tint Mask" 0
+			"Lighting" 0
+			"Height" 0
+			"Texture Transform" 1
+		}
+		"Texture Address Mode"
+		{
+		}
+	}
 }

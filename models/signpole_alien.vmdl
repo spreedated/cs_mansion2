@@ -13,7 +13,7 @@
 						_class = "PhysicsHullFile"
 						name = "signpole_alien"
 						parent_bone = ""
-						surface_prop = "metal"
+						surface_prop = "metal_sheetmetal"
 						collision_prop = "default"
 						recenter_on_parent_bone = false
 						offset_origin = [ 0.0, 0.0, 0.0 ]
@@ -32,6 +32,7 @@
 							exception_list = 
 							[
 								"signpole",
+								"signpole_004",
 							]
 						}
 					},
@@ -60,6 +61,9 @@
 								"signpole_003",
 								"signpole_005",
 								"signpole_007",
+								"signpole_006",
+								"signpole_008",
+								"signpole_009",
 							]
 						}
 					},

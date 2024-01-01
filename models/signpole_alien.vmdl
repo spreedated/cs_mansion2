@@ -36,37 +36,6 @@
 							]
 						}
 					},
-					{
-						_class = "PhysicsHullFile"
-						name = "signpole_alien1"
-						parent_bone = ""
-						surface_prop = "Wood"
-						collision_prop = "default"
-						recenter_on_parent_bone = false
-						offset_origin = [ 0.0, 0.0, 0.0 ]
-						offset_angles = [ 0.0, 0.0, 0.0 ]
-						filename = "raw/models/signpole_alien.fbx"
-						import_scale = 1.0
-						faceMergeAngle = 10.0
-						maxHullVertices = 0
-						import_mode = "SingleHull"
-						small_element_threshold = 0.0
-						thin_element_threshold = 0.0
-						optimization_algorithm = "QEM"
-						import_filter = 
-						{
-							exclude_by_default = false
-							exception_list = 
-							[
-								"signpole_003",
-								"signpole_005",
-								"signpole_007",
-								"signpole_006",
-								"signpole_008",
-								"signpole_009",
-							]
-						}
-					},
 				]
 				leave_body_collision_unmodified = false
 			},

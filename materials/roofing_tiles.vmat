@@ -20,7 +20,7 @@ Layer0
 	g_vTexCoordScale1 "[1.000 1.000]"
 	TextureAmbientOcclusion1 "materials/default/default_ao.tga"
 	TextureColor1 "raw/textures/roofingtiles001_1k-jpg/roofingtiles001_1k-jpg_color.jpg"
-	TextureHeight1 "raw/textures/roofingtiles001_1k-jpg/roofingtiles001_1k-jpg_displacement.jpg"
+	TextureHeight1 "materials/default/default_height.tga"
 	TextureMetalness1 "materials/default/default_metal.tga"
 	TextureNormal1 "raw/textures/roofingtiles001_1k-jpg/roofingtiles001_1k-jpg_normalgl.jpg"
 	TextureRoughness1 "raw/textures/roofingtiles001_1k-jpg/roofingtiles001_1k-jpg_roughness.jpg"
@@ -29,4 +29,26 @@ Layer0
 	//---- Texture Address Mode ----
 	g_nTextureAddressModeU "0" // Wrap
 	g_nTextureAddressModeV "0" // Wrap
+
+
+	VariableState
+	{
+		"Color"
+		{
+		}
+		"Fog"
+		{
+		}
+		"Material1"
+		{
+			"Color" 0
+			"Tint Mask" 0
+			"Lighting" 0
+			"Height" 0
+			"Texture Transform" 1
+		}
+		"Texture Address Mode"
+		{
+		}
+	}
 }
